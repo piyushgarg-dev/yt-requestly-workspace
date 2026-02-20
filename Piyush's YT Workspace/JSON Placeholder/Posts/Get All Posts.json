@@ -1,5 +1,5 @@
 {
-  "name": "Get All Posts",
+  "name": "Get All Posts from DB",
   "rank": "auntit17716021784011",
   "request": {
     "type": "http",
